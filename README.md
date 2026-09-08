@@ -26,4 +26,4 @@ QoderWork Skill: 多页面/多组件应用中修改共享状态时的系统性�
 
 ## License
 
-MIT
+MPL 2.0
