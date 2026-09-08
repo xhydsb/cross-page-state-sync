@@ -22,6 +22,20 @@ QoderWork Skill: 多页面/多组件应用中修改共享状态时的系统性�
 
 ## 安装
 
+### 自动安装（推荐）
+
+**Windows:**
+```bat
+curl -sL -o install.bat https://raw.githubusercontent.com/xhydsb/cross-page-state-sync/master/install.bat && install.bat
+```
+
+**macOS / Linux:**
+```bash
+curl -sL https://raw.githubusercontent.com/xhydsb/cross-page-state-sync/master/install.sh | bash
+```
+
+### 手动安装
+
 将 `SKILL.md` 放入 `~/.qoderworkcn/skills/cross-page-state-sync/` 目录即可。
 
 ## License
